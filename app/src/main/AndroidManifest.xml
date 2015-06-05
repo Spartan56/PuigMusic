@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.puigmusic.hramosdgil.puigmusic" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo2"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.puigmusic.hramosdgil.android.tabs.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.puigmusic.hramosdgil.android.Activities.PlayMusic"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.puigmusic.hramosdgil.android.Activities.GenreSongs"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.puigmusic.hramosdgil.android.Activities.ArtistSongs"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.puigmusic.hramosdgil.android.Activities.DownloadActivity"
+            android:label="@string/title_activity_dowload_" >
+        </activity>
+        <activity
+            android:name="com.puigmusic.hramosdgil.android.SplashScreenActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.puigmusic.hramosdgil.android.Activities.LocalSongs"
+            android:label="@string/title_activity_local_song"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>

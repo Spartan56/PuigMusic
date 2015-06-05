@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/pre-dexed/release/classes-8cb2d7d3776dbce183f7b59ff372982d16ba1c21.jar" />
+    </item>
+    <item
+        jar="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/pre-dexed/release/internal_impl-22.1.1-c21ce416da8fa4bec0b03c2009b2a100dd69a713.jar" />
+    </item>
+    <item
+        jar="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/pre-dexed/release/classes-bc095bffe7ecb523b81824eabaf2a28c9db94ee0.jar" />
+    </item>
+    <item
+        jar="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/pre-dexed/release/classes-861237b16e00964723d69dc80fa0a1b3f5bd2769.jar" />
+    </item>
+    <item
+        jar="/home/hramos/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/pre-dexed/release/support-annotations-22.1.1-738e2ff55a4cffc75fd39d02c1bc8b72d4d62e70.jar" />
+    </item>
+    <item
+        jar="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/home/hramos/Descargas/PuigMusic-master (2)/app/build/intermediates/pre-dexed/release/classes-0dab0664daa795eac01c342dd27576d69ebf18dc.jar" />
+    </item>
+
+</items>

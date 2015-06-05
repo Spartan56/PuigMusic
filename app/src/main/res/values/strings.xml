@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PuigMusic</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_dowload_">PuigMusic</string>
+    <string name="btn_title">Download Song</string>
+    <string name="title_activity_local_songs">LocalSongs</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_local_song">LocalSong</string>
+    <string name="action_settings">Menu</string>
+</resources>
